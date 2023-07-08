@@ -43,7 +43,11 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - markdown.extensions.codehilite
-  - pymdownx.mermaid
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 copyright: |
   &copy; 2023 <a href="https://github.com/sivaab"  target="_blank" rel="noopener">Sivaa B</a>
