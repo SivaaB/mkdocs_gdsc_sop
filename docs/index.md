@@ -99,8 +99,6 @@ To continue your learning journey beyond this workshop, here are some recommende
 
 
 
-
-
 ```mermaid
             graph TB
             A[Cloud Computing] --> B[On-demand Network Access]
