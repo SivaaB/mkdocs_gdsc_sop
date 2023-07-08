@@ -24,9 +24,9 @@ To participate in this workshop, you should have a basic understanding of comput
 **The workshop will consist of the following sections:**
 
 1. Introduction to Cloud Computing
-    - 1.1. Overview of cloud computing and its importance: 
+    - Overview of cloud computing and its importance: 
         - Cloud Computing is defined as the practice of using remote servers hosted on the internet to store, manage and process data rather than using a local. 
-    - 1.2. Benefits and challenges of adopting cloud services. 
+    - Benefits and challenges of adopting cloud services. 
 ```mermaid
 graph TB
 A[Cloud Computing] --> B[On-demand Network Access]
