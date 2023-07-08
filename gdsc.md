@@ -19,7 +19,7 @@ To participate in this workshop, you should have a basic understanding of comput
 - A valid email address to create accounts on cloud platforms. 
 
 ## 🚀 Workshop Outline: 
-### The workshop will consist of the following sessions:
+### The workshop will consist of the following sections:
 
 ### 1. Introduction to Cloud Computing
 - Overview of cloud computing and its importance. 
