@@ -72,4 +72,4 @@ To continue your learning journey beyond this workshop, here are some recommende
 
 ---
 
-###### *To make such visual documentation you can refer to the [MarkDown Tutorial](https://ahmedthahir.github.io/gdscbpdc/2022-2023/02_Markdown/) by GDSC!
+###### *To make such stunning visual documentation you can refer to the [MarkDown Tutorial](https://ahmedthahir.github.io/gdscbpdc/2022-2023/02_Markdown/) by GDSC!
