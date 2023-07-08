@@ -1,9 +1,7 @@
 site_name: GDSC Council Application 
-site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
@@ -27,18 +25,6 @@ theme:
       primary: teal
       accent: lime
 
-plugins:
-  - social
-
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: 
-    - icon: fontawesome/brands/twitter
-      link: 
-    - icon: fontawesome/brands/linkedin
-      link: 
-
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -55,6 +41,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 copyright: |
   &copy; 2023 <a href="https://github.com/sivaab"  target="_blank" rel="noopener">Sivaa B</a>
