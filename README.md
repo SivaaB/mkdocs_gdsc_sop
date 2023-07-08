@@ -1,2 +1,23 @@
-# mkdocs_gdsc_application
-This repo is to learn the fundamentals of MkDocs and implementing documentation for my GDSC Council Application!
+# <br>
+<p align="center">
+<img src="./images/BITS_Pilani-Logo.svg.png" alt="logo" height="150"/>
+</p>
+
+<h1 align="center">
+MkDocs + GDSC Council Application
+</h1>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Q-YA_dA8C20">Tutorial Link</a> | <a href="https://linktr.ee/gdsc_bpdc">GDSC Dubai</a>
+</p>
+
+
+## Works:
+
+<pre align="center">
+For Reference Only 
+</pre>
+
+<br>This is a repository to encapsulate everything learned in relation to MkDocs and use it to create a MarkDown Documentation for my GDSC Council Application. Link to Tutorial mentioned above. 
+
+</p>
