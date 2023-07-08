@@ -1,6 +1,6 @@
 # <br>
 <p align="center">
-<img src="./images/BITS_Pilani-Logo.svg.png" alt="logo" height="150"/>
+<img src="./images/GDSC2.webp" alt="logo" height="150"/>
 </p>
 
 <h1 align="center">
