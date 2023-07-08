@@ -8,7 +8,7 @@ MkDocs + GDSC Council Application
 </h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Q-YA_dA8C20">Tutorial Link</a> | <a href="https://linktr.ee/gdsc_bpdc">GDSC Dubai</a>
+  <a href="https://www.youtube.com/watch?v=Q-YA_dA8C20">Tutorial Link</a> | <a href="https://linktr.ee/gdsc_bpdc">GDSC BPDC</a>
 </p>
 
 
