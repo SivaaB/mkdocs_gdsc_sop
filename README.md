@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-MkDocs + GDSC Council Application
+Learning MkDocs + GDSC Council Application
 </h1>
 
 <p align="center">
@@ -18,6 +18,6 @@ MkDocs + GDSC Council Application
 For Reference Only 
 </pre>
 
-<br>This is a repository to encapsulate everything learned in relation to MkDocs and use it to create a MarkDown Documentation for my GDSC Council Application. Link to Tutorial mentioned above. 
+<br>This is a repository to encapsulate everything learned in relation to MkDocs and using it to create a MarkDown Documentation for my GDSC Council Application. Link to Tutorial mentioned above. 
 
 </p>
