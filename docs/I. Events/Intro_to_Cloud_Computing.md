@@ -1,9 +1,9 @@
 # 📄 Introduction to Cloud Computing 
 ---
-## 📋 Overview
+## 📋 **Overview**
 Welcome to the "Introduction to Cloud Computing" workshop! In this session, we will explore the world of cloud computing and its applications. Cloud computing has revolutionized the way businesses and individuals store, manage, and process data. This workshop aims to provide you with a solid foundation in cloud computing concepts, services, and benefits. 
 
-## 🎯 Objectives
+## 🎯 **Objectives**
 By the end of this workshop, you will:
 
 - Understand the fundamental concepts of cloud computing. 
@@ -12,16 +12,16 @@ By the end of this workshop, you will:
 - Gain hands-on experience with cloud resources and services. 
 - Understand the benefits and challenges of cloud adoption. 
 
-## 🔍 Prerequisites
+## 🔍 **Prerequisites**
 To participate in this workshop, you should have a basic understanding of computer systems and networking. Familiarity with programming concepts and the command line interface will be beneficial. Please ensure you have the following requirements met:
 
 - Laptop with internet connectivity. 
 - Web browser (preferably Google Chrome or Mozilla Firefox).
 - A valid email address to create accounts on cloud platforms. 
 
-## 🚀 Workshop Outline
+## 🚀 **Workshop Outline**
 
-**The workshop will consist of the following sections:**
+*The workshop will consist of the following sections:*
 
 1. Introduction to Cloud Computing
     - Overview of cloud computing and its importance: 
@@ -154,7 +154,7 @@ E --> M[Pay for Actual Usage]
 
 
 
-## 🌐 Additional Resources
+## 🌐 **Additional Resources**
 To continue your learning journey beyond this workshop, here are some recommended resources:
 
 1. Books:
