@@ -27,6 +27,7 @@ Must employ official channels including team-focused mailing lists and WhatsApp 
 
 Detail how club resources, such as funding, materials, and equipment, will be managed and allocated. Touch base on the ideal cost of membership, and the impact of free memberships to recurring members. 
 
+
 ## 7. **Event Planning 📌**
 
 Provide guidelines for planning and organizing events, workshops, and seminars. Include details about event proposals, approvals, promotion, and execution.
