@@ -47,15 +47,15 @@ Create a code of conduct that all organizers must adhere to. Define expected beh
 
 Explain how the club's performance and effectiveness will be evaluated. Set up mechanisms for gathering member feedback and making improvements. Responding to feedback emails, how to esclate problems to upper managment, a more involved deciscion making process where club organizers get to vote on debated moves. 
 
-## 12. Intellectual Property and Ethics 🔒
+## 12. **Intellectual Property and Ethics 🔒**
 
 Outline how GDSC will handle issues related to intellectual property and ethical considerations in its projects and activities.
 
-## 13. Collaboration with Other Organizations 🌐 
+## 13. **Collaboration with Other Organizations 🌐 **
 
 If our club plans to collaborate with other student organizations or external entities, mention how these collaborations will be approached, outline a healthy give and take relationship. 
 
-## 14. Recognition and Awards 🏆
+## 14. **Recognition and Awards 🏆**
 
 Highlighting members' accomplishments from competitions and projects, we'll establish a recognition framework that celebrates their achievements and contributions.
 
