@@ -71,8 +71,7 @@ Outline procedures for the transition of leadership at the end of each term. Ens
 
 By following these guidelines, you'll create a comprehensive and effective set of standards and procedures that will guide the Google Developer Student Club in achieving its goals and providing value to its members. Regularly review and update this document to ensure it remains relevant and reflective of the club's evolving needs.
 
----
----
+****
    
 _Sivaa B_   
 _Standards and Procedures_    
