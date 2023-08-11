@@ -1,6 +1,6 @@
 # Standards and Procedures Guidelines 📜
 
-Welcome to the Google Developer Student Club [GDSC] Standards and Procedures Guidelines! This document will help you create clear and effective standards and procedures to ensure the smooth functioning of our club. Standards and procedures help maintain consistency, foster collaboration, and provide a framework for efficient club operations.
+Welcome to the Google Developer Student Club [GDSC] Standards and Procedures Guidelines! Yes, you read that right - these are a set of guidelines to help you make new guidelines! This document will help you create clear and effective standards and procedures to ensure the smooth functioning of our club. Standards and procedures help maintain consistency, foster collaboration, and provide a framework for efficient club operations.
 
 ## **Mission and Objectives 🎯**
 

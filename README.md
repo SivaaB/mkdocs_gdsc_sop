@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">
-Learning MkDocs + GDSC Council Application
+GDSC Council SoP
 </h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Q-YA_dA8C20">Tutorial Link</a> | <a href="https://linktr.ee/gdsc_bpdc">GDSC BPDC</a>
+  <a href="https://linktr.ee/gdsc_bpdc">GDSC BPDC</a>
 </p>
 
 
@@ -18,6 +18,6 @@ Learning MkDocs + GDSC Council Application
 For Reference Only 
 </pre>
 
-<br>This is a repository to encapsulate everything learned in relation to MkDocs and using it to create a MarkDown Documentation for my GDSC Council Application. Link to Tutorial mentioned above. 
+<br>This is a repository to encapsulate all SoP(s) within the GDSC Club at BITS Pilani, Dubai. 
 
 </p>
